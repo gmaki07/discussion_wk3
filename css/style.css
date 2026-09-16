@@ -1,0 +1,17 @@
+h1{
+    color: darkblue;
+    font-weight: bold;
+    font-style: georgia, "times new roman", serif;
+    font-size: 30px;
+}    
+body{
+    background-color: rgb(228, 180, 187);
+}
+img{
+    border: 5px solid #251010; 
+}
+title{
+    font-family: georgia, "times new roman", serif;
+    font-size: 20px;
+    color:blueviolet;
+}
